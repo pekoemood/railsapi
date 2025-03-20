@@ -1,2 +1,0 @@
-class Atricle < ApplicationRecord
-end
